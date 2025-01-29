@@ -40,7 +40,6 @@ This task can be applied in various scenarios, such as:
 PDF FORMAT:
 [electronic_sales_report.pdf](https://github.com/user-attachments/files/18591402/electronic_sales_report.pdf)
 
-SCREENSHOT:
 ![Image](https://github.com/user-attachments/assets/6c8a6076-b6d7-4650-84dd-465609d34ad7)
 
 
