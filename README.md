@@ -37,3 +37,7 @@ This task can be applied in various scenarios, such as:
 
 #OUTPUT :
 
+[electronic_sales_report.pdf](https://github.com/user-attachments/files/18591402/electronic_sales_report.pdf)
+
+
+
