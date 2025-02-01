@@ -15,25 +15,36 @@
 *Description of the Task* : This task involves reading a CSV file containing electronic sales data, analyzing it, and generating a PDF report. The script calculates the total sales, identifies the most sold product, and presents the data in a structured PDF format.
 
 *Editors* : The script can be written and executed in any Python-compatible editor, such as:
--VS Code
--PyCharm
--Jupyter Notebook
--Any text editor with Python support
+,VS Code
+,PyCharm
+,Jupyter Notebook
+,Any text editor with Python support.
+ I have used IDLE, default editor that comes with Python installations with features like Simple UI for beginners with basic debugging and code execution capabilities.
+
 
 *Tools And Libraries Used* : 
--Python: Programming language used for data processing and report generation.
--Pandas: Library used for handling and analyzing CSV data.
--FPDF: Library used to create the PDF report.
+
+1]Python: Programming language used for data processing and report generation.
+
+2]Pandas: Library used for handling and analyzing CSV data.
+
+3]FPDF: Library used to create the PDF report.
 
 *Applicability Of The Task* : This task is useful for beginners who want to learn:
--How to read and manipulate CSV files using Pandas.
--How to perform basic data analysis (calculating totals, finding max values, etc.).
--How to generate and format PDF reports using the FPDF library.
+
+1]How to read and manipulate CSV files using Pandas.
+
+2]How to perform basic data analysis (calculating totals, finding max values, etc.).
+
+3]How to generate and format PDF reports using the FPDF library.
 
 This task can be applied in various scenarios, such as:
--Sales report generation.
--Inventory management.
--Basic data analysis projects.
+
+1]Sales report generation.
+
+2]Inventory management.
+
+3]Basic data analysis projects.
 
 #OUTPUT :
 
