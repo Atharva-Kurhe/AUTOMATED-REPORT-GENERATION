@@ -1,18 +1,18 @@
 # AUTOMATED-REPORT-GENERATION
 
-*COMPANY*: CODTECH IT SOLUTIONS
+*COMPANY* : CODTECH IT SOLUTIONS
 
-*NAME*: ATHARVA MANOJ KURHE
+*NAME* : ATHARVA MANOJ KURHE
 
-*INTERN ID*: CT08PEM
+*INTERN ID* : CT08PEM
 
-*DOMAIN*: PYTHON PROGRAMMING
+*DOMAIN* : PYTHON PROGRAMMING
 
-*DURATION*: 4 WEEKS
+*DURATION* : 4 WEEKS
 
-*MENTOR*: NEELA SANTHOSH
+*MENTOR* : NEELA SANTHOSH
 
-* *Overview of the Task*:
+* *Overview of the Task* :
 
 The Automated Report Generation project is designed to streamline the process of analyzing electronic sales data and generating structured PDF reports. By automating data analysis and report creation, this project aims to save time and reduce errors associated with manual reporting. The primary goal is to read a CSV file containing sales data, perform analysis to extract meaningful insights, and present the findings in a well-formatted PDF document.
 
